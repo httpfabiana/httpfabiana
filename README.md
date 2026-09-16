@@ -1,76 +1,57 @@
+<div align="center">
 
-# 👋 Olá! Sou Fabiana, desenvolvedora Front-End em formação, apaixonada por criar interfaces modernas, responsivas e funcionais.
+# 👋 Olá, eu sou a Fabiana!
 
-### 🤖 Linguagens e Tecnologias
+### Desenvolvedora Front-End em formação
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+<p>
+  <a href="https://github.com/httpfabiana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fabiana-brazil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-seven-pink-30.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora Front-End em formação, com foco na criação de interfaces modernas, responsivas e funcionais.
+
+Atualmente, estou aprimorando meus conhecimentos em **React, TypeScript e JavaScript**, desenvolvendo projetos práticos para evoluir minhas habilidades e construir meu portfólio.
+
+Tenho interesse em desenvolvimento web, boas experiências de usuário e na construção de aplicações que resolvam problemas reais.
+
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,git" />
+
+</div>
 
 
+
+
+
+
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="LINK_DO_SEU_LINKEDIN">LinkedIn</a> •
+<a href="LINK_DO_SEU_PORTFOLIO">Portfólio</a> •
+<a href="mailto:SEU_EMAIL">E-mail</a>
+
+</div>
